@@ -1,0 +1,24 @@
+{
+  "name": "ultimate-courses-rxjs-basics",
+  "version": "1.0.0",
+  "description": "RXJS course by utlimatecourses. url: https://ultimatecourses.com/courses/rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoredes/ultimate-courses-rxjs-basics.git"
+  },
+  "keywords": [],
+  "author": "Bruno Donatelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoredes/ultimate-courses-rxjs-basics/issues"
+  },
+  "homepage": "https://github.com/brunoredes/ultimate-courses-rxjs-basics#readme",
+  "dependencies": {
+    "rxjs": "^7.8.0"
+  },
+  "type": "module"
+}
